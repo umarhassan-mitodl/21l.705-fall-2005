@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "349a2a2a-38bf-9f90-b16d-39ef7b25c00e",
+  "instructors": {
+    "content": [
+      "fd72ba8e-e137-478a-c070-54d1aa95b7be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f87d2adf-7e95-84e6-5238-1800187b8015",
+    "website": "21l-705-masterworks-in-american-short-fiction-fall-2005"
+  },
+  "course_title": "Masterworks in American Short Fiction",
+  "hide_download": true,
+  "course_description": "For some reason, American literature (like French, Irish, and Russian, among others) has been especially productive in major works in fictional forms shorter than the novel. Our task in this course will be to survey that field, by looking at particular moments of high accomplishment. We will, in addition, consider some of the ways in which literary formulae can be used and varied, and some of the impacts of elements of narrative construction.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.705",
+  "course_image_thumbnail": {
+    "content": "1eb15330-153c-dff7-ae98-fba4417117af",
+    "website": "21l-705-masterworks-in-american-short-fiction-fall-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "ee873bc3-7aa8-442c-988b-09977b656e34",
+  "site_short_id": "21l.705-fall-2005",
+  "site_url_path": "courses/21l-705-masterworks-in-american-short-fiction-fall-2005",
+  "title": "Course Metadata"
+}
