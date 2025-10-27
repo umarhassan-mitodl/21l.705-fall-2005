@@ -5,8 +5,6 @@ description: The resource is a series of analytic encounters with the texts on t
 file: /courses/21l-705-masterworks-in-american-short-fiction-fall-2005/d82424da112dae9c791821d8c5357f24_journals.pdf
 file_size: 12481
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -3,8 +3,6 @@ content_type: page
 description: The assignment section provides information about the writing projects
   to be undertaken during the course and also about the final presentation for the
   course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
